@@ -1,0 +1,32 @@
+
+
+nav{
+  
+    #navbar{
+        a{
+            color: $main;
+            font-size: large;
+          
+           &:focus, &:active &:visited{
+            border-bottom: 1px solid $first_color;
+            color:$first_color
+           }
+  
+        }
+  
+    
+          
+       
+      
+
+     }
+    
+    
+
+ 
+
+
+
+
+    
+}
